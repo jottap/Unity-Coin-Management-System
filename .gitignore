@@ -1,0 +1,31 @@
+# Custom Folders
+[Bb]uild/
+[Bb]uilds/
+[Hh]eapshots/
+[Oo]bj/
+
+# Testing Folders
+tabuada-client/Assets/Testes_Locais/**
+tabuada-client/Assets/Testes_Locais.meta
+
+# Unity Folders
+[Ll]ibrary/
+[Tt]emp/
+
+# Visual Studio, Monodevelop project files
+*.csproj
+*.unityproj
+*.booproj
+*.sln
+*.pidb
+*.userprefs
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MAC
+.DS_Store
+.Trashes
+tabuada-client/.vs/tabuada-client/v14/.suo
